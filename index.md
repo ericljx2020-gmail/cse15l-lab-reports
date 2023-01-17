@@ -23,5 +23,7 @@
 * `cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/` copy the hello.txt of its original directory to home directory.
 * `cat /home/linux/ieng6/cs15lwi23/public/hello.txt` print the content of hello.txt in this directory
 ![Image](commands.png)
+---
+### That's all for today's lab report
 
 
