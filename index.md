@@ -32,9 +32,9 @@
 
 ## Trying some commands
 ---
-* `cd ~` change directory to the home directory
-* `ls` list the components of the current directory
-* `ls -lat` showing the modify information of each file
+* ```cd ~``` change directory to the home directory
+* ```ls``` list the components of the current directory
+* ```ls -lat``` showing the modify information of each file
 * `ls -a` list the component of .file of current directory
 * `ls <directory>` list the components of directory
 * `cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/` copy the hello.txt of its original directory to home directory.
